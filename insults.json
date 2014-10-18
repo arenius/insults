@@ -1,0 +1,39 @@
+{
+    "insults":
+    [
+        {
+            "base": "{} {} as useful as a knitted condom.",
+            "person": ["1s", "2s", "3sf", "3sm"],
+            "substitutions": ["pronouns", "to be"]
+        },
+        {
+            "base": "{} {} a plentiful lack of wit.",
+            "person": ["1s", "1p", "2s", "2p", "3sf", "3sm", "3p"],
+            "substitutions": ["pronouns", "to have"],
+            "category": ["intelligence"]
+        },
+        {
+            "base": "Don't let your mind wander; it's too small to be let out alone.",
+            "person": ["2s"],
+	    "category": ["intelligence"]
+        },
+        {
+            "base": "{} {} a tedious fool.",
+            "person": ["1s", "2s", "3sf", "3sm"],
+            "substitutions": ["pronouns", "to be"],
+            "category": ["personality","intelligence"]
+        },
+        {
+            "base": "{} {} from diarrhea of the mouth and constipation of the mind.",
+            "person": ["1s", "2s", "3sf", "3sm", "3p"],
+            "substitutions": ["pronouns", "to suffer"],
+            "category": ["intelligence", "shutup"]
+        },
+	{
+	    "base": "The tartness of {} face sours ripe grapes.",
+	    "person": ["1s", "2s", "3sf", "3sm"],
+	    "substitutions": ["possessive"],
+	    "category": ["appearance"]
+	}
+    ]
+}
